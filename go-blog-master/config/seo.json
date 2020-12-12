@@ -1,0 +1,15 @@
+{
+  "siteMetadata": {
+    "title": "golee.dev",
+    "author": {
+      "name": "GO Lee",
+      "summary": "who likes to build on quality components and performant web applications."
+    },
+    "description": "A blog created with Next.js and Tailwind.css",
+    "siteUrl": "https://golee-blog.netlify.app/",
+    "language": "en-US",
+    "social": {
+      "instagram": "golee.dev"
+    }
+  }
+}
